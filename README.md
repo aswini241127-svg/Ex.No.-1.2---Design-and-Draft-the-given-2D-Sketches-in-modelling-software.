@@ -55,7 +55,8 @@
 
 
  ## OUTPUT
- <img width="2482" height="1755" alt="1 2 Drawing_page-0001 (1)" src="https://github.com/user-attachments/assets/d1de7795-6553-405b-9917-8ed013965d27" />
+<img width="2482" height="1755" alt="1 2 _page-0001" src="https://github.com/user-attachments/assets/45655bfd-debd-43e5-b272-f1bcbe49e4e3" />
+
 
 
 
